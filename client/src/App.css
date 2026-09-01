@@ -1,0 +1,7 @@
+/* API Doctor
+   Tailwind CSS handles the application UI.
+*/
+
+#root {
+  min-height: 100vh;
+}
