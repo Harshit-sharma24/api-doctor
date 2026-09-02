@@ -35,8 +35,7 @@ interface HistoryItem {
   createdAt: string;
 }
 
-const API_BASE_URL = "http://localhost:5000/api";
-
+const API_BASE_URL = "https://api-doctor-swvo.onrender.com/api";
 // -----------------------------------------------------------------
 // Design tokens
 // An "API Doctor" reads a request, runs it, and reports back a
