@@ -134,3 +134,18 @@ The application also stores request history using MongoDB, making it easy to rev
        │  External APIs  │              │  MongoDB Atlas  │
        │ Request/Response│              │ Request History │
        └─────────────────┘              └─────────────────┘
+
+👨‍💻 Author
+Harshit Sharma
+
+B.Tech CSIT Student | AI & Full-Stack Developer
+
+I build AI-powered applications, full-stack web applications, developer tools, and SaaS projects.
+
+Connect with me
+🌐 Portfolio: https://harshitsharma24.netlify.app/
+💼 LinkedIn: https://www.linkedin.com/in/harshit-sharma-199880396/
+🐙 GitHub: https://github.com/Harshit-sharma24
+📄 License
+
+This project is licensed under the MIT License
